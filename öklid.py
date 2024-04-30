@@ -1,5 +1,5 @@
 import math #kütüphane kullandım
-# Noktaların tanımlanması
+# Noktaların tanımladım
 points = [(1, 2), (3, 4), (5, 6), (7, 8)]  
 # Öklid mesafesi için  fonksiyon
 def euclideanDistance(point1, point2):
